@@ -1,5 +1,6 @@
 # excel-powerbi-fraud-validation
 Excel and Power BI project focused on data validation, anomaly detection, and fraud/risk analysis. Includes Excel-based sanity checks, exception flagging, and reconciliation workflows. Documentation, dashboards, and investigative findings will be added.
+
 Problem											
 • Reporting pipelines fail when source data has duplicates, invalid dates, negative values, or inconsistent logic.											
 • Goal: validate HR/payroll/system data and a fraud transaction dataset before building dashboards and investigation views.											
